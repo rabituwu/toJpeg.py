@@ -1,6 +1,7 @@
-# toJpeg.py
-batch conversion of image to --> jpeg format
+# toJpeg
 
-install Pillow
+*batch conversion of image to --> jpeg format*
 
-pip install Pillow
+convert a folder full of images to another folder as .jpeg format
+
+*because most convert sites has limits*
